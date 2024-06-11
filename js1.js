@@ -1,1 +1,1 @@
-// this is js.one file 
+// this is js.one file
