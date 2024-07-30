@@ -9,6 +9,7 @@ function fetchData() {
 
 async function handleData() { 
   const message = await fetchData(); 
-  console.log(message); 
+     console.log(message); 
 } 
+
 handleData();
